@@ -1,12 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-/**
- *
- * @author Smart
- */
 public class Ejericicio1 {
-    
+       public static void main(String[] args) {
+        double respuesta1;
+        respuesta1 = ((1+2+4+3)/5) + Math.sqrt(81);
+        System.out.println("respuesta = " + respuesta1);
+              
+       }
 }

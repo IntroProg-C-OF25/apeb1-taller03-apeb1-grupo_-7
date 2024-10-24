@@ -1,12 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 
-/**
- *
- * @author Smart
- */
 public class Ejercicio4 {
-    
+    public static void main(String[] args) {
+        
+        boolean respuesta4;
+        respuesta4 = ((20)/3+1)+2 >=3;
+        System.out.println("respuesta4 = " + respuesta4);
+                
+    }
 }

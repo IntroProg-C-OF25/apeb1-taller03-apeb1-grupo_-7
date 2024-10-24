@@ -1,12 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 
-/**
- *
- * @author Smart
- */
 public class Ejercicio2 {
-    
+    public static void main(String[] args) {
+        double respuesta2;
+        respuesta2 = (Math.pow (10,2))+10;
+        System.out.println("respuesta = " + respuesta2);
+        
+    }
 }
